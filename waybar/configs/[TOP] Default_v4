@@ -13,7 +13,7 @@
 "exclusive": true,
 "passthrough": false,
 "position": "top",
-"spacing": 3,
+"spacing": 2,
 "fixed-center": true,
 "ipc": true,
 "margin-top": 3,
@@ -41,7 +41,7 @@
 	], 
 
 "modules-right": [
-	"network#speed",
+	"networёk#speed",
 	"group/connections",
 	"custom/separator#line",
 	"tray",
