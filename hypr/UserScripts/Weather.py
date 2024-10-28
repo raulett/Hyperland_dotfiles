@@ -26,7 +26,7 @@ weather_icons = {
 # to get your own location_id, go to https://weather.com & search your location.
 # once you choose your location, you can see the location_id in the URL(64 chars long hex string)
 # like this: https://weather.com/en-PH/weather/today/l/bca47d1099e762a012b9a139c36f30a0b1e647f69c0c4ac28b537e7ae9c1c200
-location_id = "90c48e87ce9669cb544b2224b139679c8dad58e855791b996ba4c595bf3da398"  # TODO
+location_id = "90c48e87ce9669cb544b2224b139679c8dad58e855791b996ba4c595bf3da398"  #Указать локацию
 
 # NOTE to change to deg F, change the URL to your preffered location after weather.com
 # Default is English-Philippines with Busan, South Korea as location_id
